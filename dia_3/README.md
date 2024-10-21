@@ -1,9 +1,9 @@
-## Dia 3: HTML5 - Formulários e Multimídia
+# Dia 3: HTML5 - Formulários e Multimídia
 
-### Objetivos:
+## Objetivos:
 - Introduzir formulários HTML5 e elementos de multimídia.
 
-### Conteúdos:
+## Conteúdos:
 1. **Formulários**
    - Campos de texto: `<input type="text">`
    - Botões: `<button>`
@@ -16,5 +16,5 @@
 3. **Atributos de acessibilidade em formulários**
    - Uso de `label`, `for`, `aria-*` para acessibilidade.
 
-### Exercício:
+## Exercício:
 - Criar um formulário simples com diferentes tipos de campos (texto, seleção, botão).
