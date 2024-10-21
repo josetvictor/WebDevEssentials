@@ -1,23 +1,42 @@
-# Curso de HTML5 e CSS3
+# Curso de Desenvolvimento Frontend - HTML5, CSS3 e JavaScript
 
-Bem-vindo ao repositório do curso de desenvolvimento front-end, focado em HTML5 e CSS3. Este material foi cuidadosamente organizado para guiá-lo desde os conceitos básicos até às práticas mais avançadas no uso das tecnologias primárias do frontend.
+## 🚀 Boas-vindas!
 
-## Estrutura do repositório
+Bem-vindo(a) ao **Curso de Desenvolvimento Frontend**! Neste curso, você aprenderá os fundamentos essenciais para criar páginas web modernas e responsivas, utilizando **HTML5**, **CSS3** e **JavaScript**. Ao longo das aulas, nosso objetivo é construir uma landing page do zero, aplicando as melhores práticas de desenvolvimento web.
 
-O repositório está organizado em diretórios, cada um correspondendo a um tópico específico abordado durante as aulas. Em cada diretório, você encontrará:
+Fique à vontade para explorar este repositório, onde você encontrará o material das aulas, exercícios, exemplos de código e recursos adicionais para auxiliar no seu aprendizado.
 
-- `index.html`: Arquivo principal contendo o código discutido e demonstrado em aula.
+## 📚 Sumário
 
-- `README.md`: Documento complementar que explica detalhadamente o código, os conceitos abordados e as melhores práticas recomendadas.
+Aqui está um resumo do que vamos cobrir ao longo do curso:
 
-Este repositório serve como um guia de referência e um ponto de partida para suas práticas de desenvolvimento. Explore cada diretório na ordem sugerida para um aprendizado progressivo e estruturado.
+- [dia 1: Introdução ao Desenvolvimento Web](./dia_1/README.md)
+- [dia 2: HTML5 - Estrutura e Elementos](./dia_2/README.md)
+- [dia 3: HTML5 - Formulários e Multimídia](./dia_3/README.md)
+- [dia 4: Introdução ao CSS3](./dia_4/README.md)
+- [dia 5: Layout com CSS3](./dia_5/README.md)
+- [dia 6: CSS3 - Flexbox](./dia_6/README.md)
+- [dia 7: JavaScript - Introdução](./dia_7/README.md)
+- [dia 8: JavaScript - Manipulação do DOM](./dia_8/README.md)
+- [dia 9: JavaScript - Funções e Loops](./dia_9/README.md)
+- [dias 10, 11 e 12: Construção da Landing Page](./dia_10/README.md)
+- [dia 13: Revisão e Finalização do Projeto](./dia_13/README.md)
 
-## Material de Apoio
+## 🛠️ Material de Apoio
 
-[Código Fonte TV - HTML // Dicionário do Programador](https://www.youtube.com/watch?v=4dQtz1PpY9A)
+Aqui estão alguns recursos extras que podem te ajudar durante o curso:
 
-[DevMedia - HTML o essencial para programação Front-end](https://www.youtube.com/watch?v=qHHXjEmOJyk)
+- [MDN Web Docs (HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [MDN Web Docs (CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [MDN Web Docs (JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [W3Schools - Tutoriais de Desenvolvimento Web](https://www.w3schools.com/)
 
-[W3Schools.com](https://www.w3schools.com/html/default.asp)
+Além desses links, cada dia terá materiais adicionais que serão disponibilizados neste repositório.
 
-[DevDocs - DevDocs API Documentation](https://devdocs.io/)
+## 👩‍💻 Contribuições e Dúvidas
+
+Este curso é colaborativo, então sinta-se à vontade para contribuir! Caso tenha dúvidas ou sugestões, você pode abrir uma _issue_ ou enviar um _pull request_.
+
+---
+
+Vamos juntos construir uma landing page incrível e aprender os fundamentos do desenvolvimento web! 😊
