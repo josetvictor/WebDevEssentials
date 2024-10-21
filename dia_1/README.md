@@ -28,6 +28,8 @@
      </html>
      ```
 
+    - Formatações de texto.
+
 3. **Ferramentas para desenvolvimento web**
    - Editor de código (VSCode)
         - Extenções do VSCode:
@@ -37,4 +39,4 @@
    - Inspeção de elementos no navegador
 
 ## Exercício:
-- Criar um documento HTML simples com um título e um parágrafo.
+- Criar um documento HTML simples com um título e um parágrafo com algumas formatações de texto.
