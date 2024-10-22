@@ -1,18 +1,18 @@
-# Dia 8: JavaScript - Manipulação do DOM
+# Dia 8: JavaScript - Introdução
 
 ## Objetivos:
-- Ensinar como interagir com a página web usando JavaScript.
+- Introduzir JavaScript e ensinar conceitos básicos de programação.
 
 ## Conteúdos:
-1. **O que é o DOM?**
-   - Entender o Document Object Model.
+1. **O que é JavaScript?**
+   - Onde e como adicionar scripts em uma página HTML.
 
-2. **Seleção de elementos**
-   - Métodos: `getElementById`, `querySelector`, `getElementsByClassName`
+2. **Sintaxe básica**
+   - Variáveis: `var`, `let`, `const`
+   - Tipos de dados: strings, números, booleanos
 
-3. **Manipulação de elementos**
-   - Alterar texto e estilos de elementos.
-   - Adicionar e remover elementos da página.
+3. **Operadores e expressões**
+   - Operadores aritméticos e de comparação
 
 ## Exercício:
-- Criar um script que altera o texto de um parágrafo ao clicar em um botão.
+- Criar um script que exibe uma mensagem de boas-vindas ao carregar a página.

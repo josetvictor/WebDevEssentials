@@ -16,11 +16,12 @@ Aqui está um resumo do que vamos cobrir ao longo do curso:
 - [dia 4: Introdução ao CSS3](./dia_4/README.md)
 - [dia 5: Layout com CSS3](./dia_5/README.md)
 - [dia 6: CSS3 - Flexbox](./dia_6/README.md)
-- [dia 7: JavaScript - Introdução](./dia_7/README.md)
-- [dia 8: JavaScript - Manipulação do DOM](./dia_8/README.md)
-- [dia 9: JavaScript - Funções e Loops](./dia_9/README.md)
-- [dias 10, 11 e 12: Construção da Landing Page](./dia_10/README.md)
-- [dia 13: Revisão e Finalização do Projeto](./dia_13/README.md)
+- [dia 7: CSS3 - Responsividade no HTML e CSS](./dia_7/README.md)
+- [dia 8: JavaScript - Introdução](./dia_8/README.md)
+- [dia 9: JavaScript - Manipulação do DOM](./dia_9/README.md)
+- [dia 10: JavaScript - Funções e Loops](./dia_10/README.md)
+- [dias 11, 12 e 13: Construção da Landing Page](./dia_11_12_13/README.md)
+- [dia 14: Revisão e Finalização do Projeto](./dia_14/README.md)
 
 ## 🛠️ Material de Apoio
 

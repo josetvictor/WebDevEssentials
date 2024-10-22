@@ -1,16 +1,18 @@
-# Dia 9: JavaScript - Funções e Loops
+# Dia 9: JavaScript - Manipulação do DOM
 
 ## Objetivos:
-- Ensinar como criar funções e utilizar loops em JavaScript.
+- Ensinar como interagir com a página web usando JavaScript.
 
 ## Conteúdos:
-1. **Funções**
-   - Definição de funções e parâmetros.
+1. **O que é o DOM?**
+   - Entender o Document Object Model.
 
-2. **Loops**
-   - `for`, `while`
+2. **Seleção de elementos**
+   - Métodos: `getElementById`, `querySelector`, `getElementsByClassName`
 
-3. **Uso de loops para manipulação de múltiplos elementos no DOM.**
+3. **Manipulação de elementos**
+   - Alterar texto e estilos de elementos.
+   - Adicionar e remover elementos da página.
 
 ## Exercício:
-- Criar uma lista de itens e usar JavaScript para alterar as cores de todos eles com um loop.
+- Criar um script que altera o texto de um parágrafo ao clicar em um botão.
