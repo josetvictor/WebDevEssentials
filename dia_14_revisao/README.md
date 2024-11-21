@@ -5,3 +5,7 @@
 
 ### Atividade Final:
 - Publicar a landing page online.
+    - via?:
+        - Github pages?
+        - vercel?
+        - como publicar uma pagina statica?
